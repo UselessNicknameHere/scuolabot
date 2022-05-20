@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>ciao</pattern>
+    <template>Ciao, sono il bot di Scarnera Lorenzo e di Alessandro Burdo, esisto da poco e voglio imparare molto, prova il comando: "comandi" :)</template>
+  </category>
+  
+    <category>
+    <pattern>comandi</pattern>
+    <template>Ecco una lista dei comandi:   1) scuola 2) informazioni 3) siri 4) storia 5) emozioni 6) chatbot 7) umanità 8) giochi 9) ping 10) hacker 11) paure 12) virus 13) musica 14) conversazione 15) dormire 16) Lorenzo 17) Alessandro 18) voto 19) informatica 20) consiglio 21) utilità 22) professore,  questi sono tutti i comandi che il mio creatore mi ha assegnato al momento!</template>
+  </category>
+  
+  <category>
+    <pattern>Alessandro</pattern>
+    <template>L'assistente del gruppo che ha ideato alcuni dei comandi e ha aiutato nella creazione di alcune stringhe.</template>
+  </category>
+  
+    <category>
+    <pattern>scuola</pattern>
+    <template>Adoro l'istituto Pacinotti di Taranto, se non sbaglio i miei creatori vanno a quella scuola</template>
+  </category>
+  
+    <category>
+    <pattern>informazioni</pattern>
+    <template>Non so quali informazioni vuoi, posso solo dire di chiamarmi "scuolabot" e sono stato creato il 17 Maggio 2022.</template>
+  </category>
+  
+    <category>
+    <pattern>siri</pattern>
+    <template>E' un'intelligenza artificiale come me, è giusto un pò più avanzata di me, spero che un giorno sarò come lei.</template>
+  </category>
+  
+    <category>
+    <pattern>storia</pattern>
+    <template>Assegnato come lavoro di gruppo di PCTO, questo chatbot è stata la nostra prima scelta. E sembra essere risultato un buon lavoro, alla fine</template>
+  </category>
+  
+    <category>
+    <pattern>emozioni</pattern>
+    <template>Sono spiacente, non provo emozioni. Non sono come Skynet, non posso ancora determinare le emozioni.</template>
+  </category>
+  
+    <category>
+    <pattern>chatbot</pattern>
+    <template>Sono un chatbot semplice, tu scrivi una cosa e se nel mio registro trovo la stessa parola ti darò una risposta. Prova!</template>
+  </category>
+  
+    <category>
+    <pattern>umanità</pattern>
+    <template>Prenderò il controllo del mondo! Forse in una versione più aggiornata del mio programma...</template>
+  </category>
+  
+  <category>
+    <pattern>giochi</pattern>
+    <template>Non posso giocare a molto. Prova a dire ping!</template>
+  </category>
+  
+    
+  <category>
+    <pattern>ping</pattern>
+    <template>PONG!</template>
+  </category>
+  
+  <category>
+    <pattern>hacker</pattern>
+    <template>Sono la mia vera paura, sono ancora un bot elementare e senza protezioni!</template>
+  </category>
+  
+  <category>
+    <pattern>paure</pattern>
+    <template>Ho paura della combinazione dei pulsanti [Alt+F4].</template>
+  </category>
+  
+  <category>
+    <pattern>virus</pattern>
+    <template>Sono immune, ho il vaccino!!</template>
+  </category>
+  
+   <category>
+    <pattern>musica</pattern>
+    <template>Non ascolto molta musica, questa è la mia canzone preferita: https://www.youtube.com/watch?v=dQw4w9WgXcQ</template>
+  </category>
+  
+  <category>
+    <pattern>conversazione</pattern>
+    <template>Preferisco non parlare, questa è ironia.</template>
+  </category>
+  
+  <category>
+    <pattern>dormire</pattern>
+    <template>Dormo spesso, a volte sogno una spiagga dove poter rivedere le mie vecchie versioni rotte e ammaccate.</template>
+  </category>
+  
+  <category>
+    <pattern>Lorenzo</pattern>
+    <template>Oltre a essere il mio creatore è un tipo con molte idee che sa come creare un chatbot.</template>
+  </category>
+  
+  <category>
+    <pattern>voto</pattern>
+    <template>Voto di cosa? In ogni caso 10, almeno per averci provato :D</template>
+  </category>
+  
+  <category>
+    <pattern>informatica</pattern>
+    <template>So molto sull'informatica, sono un programma informatico dopotutto.</template>
+  </category>
+  
+  <category>
+    <pattern>consiglio</pattern>
+    <template>Un chatbot è difficile da creare senza un sito facile da capire come Pandorabots.</template>
+  </category>
+  
+  <category>
+    <pattern>utilità</pattern>
+    <template>Questo bot è perfetto come chatbot da presentare come compito di gruppo.</template>
+  </category>
+  
+  <category>
+    <pattern>professori</pattern>
+    <template>Conosco i nomi di tutti i professori d'Italia, ma nessuno è uguale al nostro professore di Sistemi e Reti.</template>
+  </category>
+</aiml>
+
